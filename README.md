@@ -3,9 +3,10 @@
 ## Tienda Online:
 ### https://www.comprarprep.com
 
-## Blog especializado
+## Blog especializado:
 ### https://www.comprarprep.com/blog/
 
+## Fármacos disponibles:
 * https://github.com/Axxus/Ricovir-EM
 * https://github.com/Axxus/Tenvir-EM
 * https://github.com/Axxus/Tenof-EM
