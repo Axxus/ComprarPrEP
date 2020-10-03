@@ -19,3 +19,7 @@
 ### Visit us on about.me
 
 * https://about.me/comprarprep
+
+### Visit us on wikia
+
+* https://lgbt.wikia.org/wiki/Profilaxis_preexposici%C3%B3n_(PrEP)
