@@ -15,3 +15,7 @@
 ### Visit us on github.io
 
 * https://axxus.github.io/ComprarPrEP/
+
+### Visit us on about.me
+
+* https://about.me/comprarprep
