@@ -15,3 +15,7 @@
 ### Visit us on github.io
 
 * https://axxus.github.io/ComprarPrEP/
+
+## Backlinks
+
+### [Reviews](https://docs.google.com/document/d/1TB-YQ4xJtopEa5BSukd4fLAtwcN1iFa2NUSvA1jArDg/edit?usp=sharing)
