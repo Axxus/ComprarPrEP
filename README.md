@@ -1,10 +1,7 @@
 # ComprarPrEP Profilaxis preexposición online.
 
 ## Tienda Online:
-### [PrEP](https://www.comprarprep.info)
-
-## Blog especializado:
-### [Blog de PrEP](https://www.comprarprep.info/blog/)
+### [PrEP](https://www.comprarprep.org)
 
 ## Fármacos disponibles:
 * https://github.com/Axxus/Ricovir-EM
